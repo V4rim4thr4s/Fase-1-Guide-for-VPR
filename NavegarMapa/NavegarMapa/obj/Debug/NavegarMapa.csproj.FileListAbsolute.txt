@@ -1,0 +1,10 @@
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\bin\Debug\NavegarMapa.exe.config
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\bin\Debug\NavegarMapa.exe
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\bin\Debug\NavegarMapa.pdb
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\obj\Debug\NavegarMapa.csprojResolveAssemblyReference.cache
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\obj\Debug\NavegarMapa.Form1.resources
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\obj\Debug\NavegarMapa.Properties.Resources.resources
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\obj\Debug\NavegarMapa.csproj.GenerateResource.Cache
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\obj\Debug\NavegarMapa.csproj.CoreCompileInputs.cache
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\obj\Debug\NavegarMapa.exe
+C:\Users\Marisabel2\Desktop\Sistemas Inteligentes\Fase 1\NavegarMapa\NavegarMapa\NavegarMapa\obj\Debug\NavegarMapa.pdb
